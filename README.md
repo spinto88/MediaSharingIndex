@@ -5,3 +5,4 @@ Code of the paper "The hidden dimension of information diffusion: A latent space
 - *Data_description.ipynb* provides a brief description of the data and reproduces Figure 1 of the paper.
 - *MediaSharingIndex.ipynb* calculates the MSI of the users and media outlets and show the distribution of these values as Figure 3 of the paper shows.
 - *MediaSharingIndex_and_SentimentBias.ipynb* compares the MSI and the SentimentBias of the media outlets, reproducing Figure 5 of the paper.
+- *MediaSharingIndex_and_IdeologicalValence.ipynb* compares the MSI with the ideological valence, reproducing Figure 4 of the paper.
