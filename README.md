@@ -6,7 +6,7 @@ Code of the paper "The hidden dimension of information diffusion: A latent space
 
 - *Media_outlets_projection_figure.ipynb* creates the layout of the projection over the media-outlets layer by the BiCM, reproducing Figure 2 of the paper.
 
-- *MediaSharingIndex.ipynb* calculates the MSI of the users and media outlets and show the distribution of these values as Figure 3 of the paper shows.
+- *MediaSharingIndex.ipynb* calculates the MSI of the users and media outlets and show the distribution of these values as Figure 3 of the paper shows. It also reproduces the images of the supplementary material.
 
 - *MediaSharingIndex_and_IdeologicalValence.ipynb* compares the MSI with the ideological valence, reproducing Figure 4 of the paper.
 
