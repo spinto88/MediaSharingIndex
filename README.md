@@ -12,6 +12,6 @@ Code of the paper "The hidden dimension of information diffusion: A latent space
 
 - *MediaSharingIndex_and_SentimentBias.ipynb* compares the MSI and the SentimentBias of the media outlets, reproducing Figure 5 of the paper.
 
-- *MSI_and_IV_per_community.ipynb* shows the distribution of MSI and IV per community of the retweet graph, information shown in Figure 6 of the paper.
+- *MSI_and_IV_per_community.ipynb* shows the distribution of MSI and IV per community of the retweet graph, information shown in Figure 6 of the paper. Community detection was made with *scripts/retweet_network_communities.py*.
 
-- *EchoChambersVisualization.ipynb* reproduces Figure 7 of the paper, taking precomputed averages data by *echo_chambers_matrix.py* 
+- *EchoChambersVisualization.ipynb* reproduces Figure 7 of the paper, taking precomputed averages data by *scripts/echo_chambers_matrix.py* 
