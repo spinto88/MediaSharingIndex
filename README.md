@@ -1,4 +1,4 @@
-# MediaEchoChambers
+# Media Sharing Index
 
 Code of the paper "The hidden dimension of information diffusion: A latent space representation of Social Media News Sharing behavior"
 
