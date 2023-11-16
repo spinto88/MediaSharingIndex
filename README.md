@@ -11,3 +11,5 @@ Code of the paper "The hidden dimension of information diffusion: A latent space
 - *MediaSharingIndex_and_IdeologicalValence.ipynb* compares the MSI with the ideological valence, reproducing Figure 4 of the paper.
 
 - *MediaSharingIndex_and_SentimentBias.ipynb* compares the MSI and the SentimentBias of the media outlets, reproducing Figure 5 of the paper.
+
+- *EchoChambersVisualization.ipynb* reproduces Figure 7 of the paper, taking precomputed averages data by *echo_chambers_matrix.py* 
