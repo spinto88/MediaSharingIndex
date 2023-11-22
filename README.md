@@ -17,4 +17,4 @@ Support data, specifically information about the retweet network of users, can b
 
 - *EchoChambersVisualization.ipynb* reproduces Figure 7 of the paper, taking precomputed averages data by *scripts/echo_chambers_matrix.py* 
 
-- In *supplementary_information/* the equivalence between calculation MSI through correspondence analysis and weighted averages can be found. 
+- In *supplementary_material/* the equivalence between calculation MSI through correspondence analysis and weighted averages can be found. 
