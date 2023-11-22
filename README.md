@@ -1,6 +1,6 @@
 # Media Sharing Index
 
-Code of the paper "The hidden dimension of information diffusion: A latent space representation of Social Media News Sharing behavior"
+Code of the paper [The hidden dimension of information diffusion: A latent space representation of Social Media News Sharing behavior"](https://arxiv.org/abs/2311.10837)
 Support data, specifically information about the retweet network of users, can be found in https://osf.io/u29tk/.
 
 - *Data_description.ipynb* provides a brief description of the data and reproduces Figure 1 of the paper.
